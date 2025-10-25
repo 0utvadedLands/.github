@@ -3,4 +3,4 @@ OutvadedLands is a **parody** Minecraft server that is more cool, fun and better
 
 [![OutvadedLands](/public/outvadedlands.png)](https://0utvadedlands.github.io)
 
-> OutvadedLands is still in beta so don't expect anything until the IP is avaliable.
+> OutvadedLands is still in beta so don't expect anything until the IP is avaliable. IP **won't** be outvadedlands.net if it comes in release.
